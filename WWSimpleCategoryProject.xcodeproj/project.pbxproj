@@ -82,6 +82,7 @@
 		D465E96919C87AA900A45073 = {
 			isa = PBXGroup;
 			children = (
+				D465E9AA19C87B2800A45073 /* WWSimpleCategory */,
 				D465E97B19C87AAA00A45073 /* WWSimpleCategoryProject */,
 				D465E99A19C87AAA00A45073 /* WWSimpleCategoryProjectTests */,
 				D465E97419C87AA900A45073 /* Frameworks */,
@@ -150,6 +151,13 @@
 				D465E99D19C87AAA00A45073 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D465E9AA19C87B2800A45073 /* WWSimpleCategory */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = WWSimpleCategory;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
