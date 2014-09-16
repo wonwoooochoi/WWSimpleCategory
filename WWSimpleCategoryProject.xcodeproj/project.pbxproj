@@ -24,6 +24,7 @@
 		D465E9AE19C87B9E00A45073 /* NSArray+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = D465E9AD19C87B9E00A45073 /* NSArray+Simple.m */; };
 		D465E9B219C8878F00A45073 /* NSDictionary+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = D465E9B119C8878F00A45073 /* NSDictionary+Simple.m */; };
 		D465E9B519C88DB400A45073 /* NSData+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = D465E9B419C88DB400A45073 /* NSData+Simple.m */; };
+		D465E9B819C8945600A45073 /* NSString+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = D465E9B719C8945600A45073 /* NSString+Simple.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		D465E9B119C8878F00A45073 /* NSDictionary+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Simple.m"; sourceTree = "<group>"; };
 		D465E9B319C88DB400A45073 /* NSData+Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Simple.h"; sourceTree = "<group>"; };
 		D465E9B419C88DB400A45073 /* NSData+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Simple.m"; sourceTree = "<group>"; };
+		D465E9B619C8945600A45073 /* NSString+Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Simple.h"; sourceTree = "<group>"; };
+		D465E9B719C8945600A45073 /* NSString+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Simple.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +176,8 @@
 				D465E9B419C88DB400A45073 /* NSData+Simple.m */,
 				D465E9B019C8878F00A45073 /* NSDictionary+Simple.h */,
 				D465E9B119C8878F00A45073 /* NSDictionary+Simple.m */,
+				D465E9B619C8945600A45073 /* NSString+Simple.h */,
+				D465E9B719C8945600A45073 /* NSString+Simple.m */,
 			);
 			path = WWSimpleCategory;
 			sourceTree = "<group>";
@@ -275,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D465E9B819C8945600A45073 /* NSString+Simple.m in Sources */,
 				D465E9B519C88DB400A45073 /* NSData+Simple.m in Sources */,
 				D465E9B219C8878F00A45073 /* NSDictionary+Simple.m in Sources */,
 				D465E98619C87AAA00A45073 /* WWAppDelegate.m in Sources */,

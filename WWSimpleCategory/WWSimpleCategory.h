@@ -10,7 +10,9 @@
 #define WWSimpleCategoryProject_WWSimpleCategory_h
 
 #import "NSArray+Simple.h"
+#import "NSData+Simple.h"
 #import "NSDictionary+Simple.h"
+#import "NSString+Simple.h"
 
 
 #endif
